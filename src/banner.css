@@ -1,0 +1,18 @@
+
+.banner-container {
+    display: flex;
+    padding: 10px;
+    text-align: end;
+    justify-content: end;
+}
+
+.logo{
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+}
+  
+.title {
+    font-size: 24px; 
+    margin: 0; 
+}

@@ -1,0 +1,10 @@
+.cart-container{
+    width: 300px;
+    height: 500px;
+    background-color: rgb(5, 183, 124);
+    padding: 25px;
+}
+
+.close-btn{
+    justify-content: end;
+}

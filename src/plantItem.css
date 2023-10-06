@@ -1,0 +1,17 @@
+.no-bullets {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+
+.no-space{
+    flex: 1;
+    margin: 0;
+}
+
+.no-bullets > li {
+    flex: 0 0 calc(33.33% - 20px); 
+    margin: 2px; 
+}
